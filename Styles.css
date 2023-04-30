@@ -1,0 +1,63 @@
+
+/* Reset the default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set the font family and size */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Set the background color */
+body {
+  background-color: #535353;
+}
+
+/* Set the color of the text */
+p {
+  color: #000000;
+  font-weight: bold;
+}
+
+/* Style the links */
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+/* Style the headings */
+h1, h2, h3 {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+header {
+  background-color: #424242; 
+}
+
+li {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px
+}
